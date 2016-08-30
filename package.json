@@ -1,0 +1,29 @@
+{
+  "name": "module-proxy",
+  "version": "0.1.0",
+  "description": "module manager",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael-pinho/module-proxy.git"
+  },
+  "keywords": [
+    "require",
+    "module",
+    "mock",
+    "dependency-resolver"
+  ],
+  "author": "Rafael Pinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael-pinho/module-proxy/issues"
+  },
+  "homepage": "https://github.com/rafael-pinho/module-proxy#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.0.2"
+  }
+}
